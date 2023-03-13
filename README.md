@@ -6,5 +6,5 @@ We know that COVID-19 spreads through respiratory droplets, such as through coug
 
 Fortunately, organizations around the world have been collecting data so that governments can monitor and learn from this pandemic. Notably, the Johns Hopkins University Center for Systems Science and Engineering created a publicly available data repository to consolidate this data from sources like the WHO, the Centers for Disease Control and Prevention (CDC), and the Ministry of Health from multiple countries.
 
-In this notebook, we will visualize COVID-19 data from the first several weeks of the outbreak to see at what point this virus became a global pandemic. 
+In this notebook, we will visualize COVID-19 data from the first several weeks of the outbreak to see at what point this virus became a global pandemic using R visualization library **ggplot** and  data manipulation using library **dplyr**. 
 
